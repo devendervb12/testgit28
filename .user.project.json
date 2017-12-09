@@ -1,0 +1,166 @@
+{
+  "run": [
+    {
+      "filePath": "/JS/EX02/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 6272963,
+        "displayName": "Run index.html 3",
+        "lastRunTimeStamp": 1479047793527
+      }
+    },
+    {
+      "filePath": "/JS/EX03/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 6355497,
+        "displayName": "Run index.html 4",
+        "lastRunTimeStamp": 1477186701142
+      }
+    },
+    {
+      "filePath": "/JS/DOM/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 1413970,
+        "displayName": "Run index.html 2",
+        "lastRunTimeStamp": 1475986809295
+      }
+    },
+    {
+      "filePath": "/JS/EX01/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 4109567,
+        "displayName": "Run index.html 1",
+        "lastRunTimeStamp": 1475894706469
+      }
+    },
+    {
+      "filePath": "/HTML/EX01/webapp/gradients.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 1318042,
+        "displayName": "Run gradients.html",
+        "lastRunTimeStamp": 1475380751603
+      }
+    },
+    {
+      "filePath": "/HTML/EX01/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 6795052,
+        "displayName": "Run index.html",
+        "lastRunTimeStamp": 1475375756027
+      }
+    },
+    {
+      "filePath": "/HTML/EX01/webapp/view/main.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 5673323,
+        "displayName": "Run main.html 1",
+        "lastRunTimeStamp": 1475373314539
+      }
+    },
+    {
+      "filePath": "/HTML/EX01/webapp/main.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 4331163,
+        "displayName": "Run main.html",
+        "lastRunTimeStamp": 1475372694463
+      }
+    },
+    {
+      "filePath": "/HTML/EX01/webapp/view/links.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 7539783,
+        "displayName": "Run links.html",
+        "lastRunTimeStamp": 1475295667511
+      }
+    }
+  ]
+}

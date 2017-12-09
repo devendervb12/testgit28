@@ -1,0 +1,192 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<HEAD>
+
+    <style>
+        h1 {
+            color: #003366
+        }
+        
+        p {
+            color: #000000;
+            text-align: left;
+            font-family: verdana;
+            font-size: 15px;
+        }
+        
+        p.solid {
+            border-style: solid;
+            text-align: left;
+            background-color: lightblue;
+            padding-top: 1px;
+            width: 1119px;
+            height: 75px;
+            border-top-width: 0px;
+            border-bottom-width: 0px;
+            margin-top: 71px;
+            border-right-width: 16px;
+        }
+        
+        form {
+            display: table;
+        }
+        
+        p {
+            display: table-row;
+        }
+        
+        label {
+            display: table-cell;
+            text-align: right
+        }
+        
+        input {
+            display: table-cell;
+        }
+        
+        form {
+            display: table;
+        }
+        
+        p {
+            display: table-row;
+        }
+        
+        label {
+            display: table-cell;
+            text-align: right
+        }
+        
+        input {
+            display: table-cell;
+        }
+        
+        .heading1 {
+            border: 5px solid lightblue;
+            border-top-width: 28px;
+            border-bottom-width: 64px;
+            border-right-width: 14px;
+            
+        }
+        .heading2 {
+			border: 5px solid lightblue;
+			background-color:lightblue;
+			border-top-width: 28px;
+			text-transform: capitalize;
+			text-indent: 20px;
+			font-family: Arial, Helvetica, sans-serif;
+            
+        }        
+        
+        .formcn {
+            width: 300px;
+        }
+        .button {
+		    background-color: #4CAF50;
+		    border: none;
+		    color: white;
+		    padding: 15px 32px;
+		    text-align: center;
+		    text-decoration: none;
+		    display: inline-block;
+		    font-size: 16px;
+		    margin: 4px 2px;
+		    cursor: pointer;
+}
+    </style>
+
+</HEAD>
+
+<body>
+    <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+        <h1>Employee Registration Form</h1>
+    </marquee>
+    <div class="heading2">Please Enter Following Details </div>
+        <div class="heading1">
+
+        <div class="heading" style="padding-bottom:216px;padding-left: 319px;padding-top: 36px;">
+
+            <form>
+                <P>
+                	
+                    <label id="idLempName">Employee name: </label>
+
+                    <input class="formcn" type="text" name="fname" placeholder='Enter Employee Name'>
+
+                </p>
+
+
+                <p>
+                    <label>Department :</label>
+                    <input class="formcn" list="dept" name="dept" placeholder='Enter Department'>
+                    <datalist id="dept">
+	    <option value="HIT">
+	    <option value="RADIOLOGY">
+	    <option value="ONCOLOGY">
+	    <option value="ORTHOPEDIC">
+	    <option value="UROLOGY">
+	  </datalist>
+
+                </p>
+   <!--     <p>
+        		<label> Gender:</label>
+                <input placeholder='Enter Gender'>
+        </p> -->
+
+                <p>
+                    <label>Role: </label>
+
+                    <input class="formcn" list="Role" name="Role" placeholder='Enter Role'>
+                    <datalist id="Role">
+	    <option value="HOD">
+	    <option value="Associate Manager">
+	    <option value="Manager">
+	    <option value="Executive">
+	    <option value="Other Staff">
+	  </datalist>
+                </p>
+
+                <p>
+                    <label>Personal Email:</label>
+                    <input class="formcn" type="text" name="pmail" placeholder='Enter Email ID'>
+
+                </p>
+                <p>
+                    <label>Pan Number:</label>
+                    <input class="formcn" type="text" name="panno" placeholder='Enter Pan Number'>
+                </p>
+                <p>
+                    <label>Country:</label>
+                    <input class="formcn" list="country" name="country" placeholder='Enter Country'>
+
+                    <datalist id="country">
+	    <option value="India">
+	    <option value="Australia">
+	    <option value="South Africar">
+	    <option value="Russia">
+	    <option value="Sri Lanka">
+	  </datalist>
+                </p>
+
+                <p>
+                    <label>Zip Code:</label>
+                    <input class="formcn" type="text" name="zcode" placeholder='Enter Zip Code'>
+                </p>
+	<br>
+                <p>
+                
+                	<div align="right">
+                    <a href="temppage1.html"><button type="button" class="button" value="Input Button">Register</button></a>
+                    </div>
+                </p>
+
+            </form>
+
+        </div>
+        </div>
+   
+<script src="script/myJs.js"></script>
+</body>
+
+</HTML>
